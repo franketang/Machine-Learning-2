@@ -9,7 +9,7 @@
 
 This repository contains a Python program that showcases the implementation of a powerful recommendation engine using the ALS (Alternating Least Squares) model on the MovieLens dataset. The MovieLens dataset is a widely recognized benchmark dataset in the world of recommendation systems. Our program utilizes PySpark, a Python library designed for distributed data processing, to conduct collaborative filtering. The end result? Personalized movie recommendations for users that can revolutionize the user experience.
 
-[![Google Slides Presentation](link_to_slides_image)]([link_to_google_slides](https://docs.google.com/presentation/d/1mula9arywAMuA7I4tyndwqpnv4cR1gbvFhmNFjGHQmo/edit#slide=id.p))
+![Google Slides Presentation]([link_to_google_slides](https://docs.google.com/presentation/d/1mula9arywAMuA7I4tyndwqpnv4cR1gbvFhmNFjGHQmo/edit#slide=id.p))
 
 ## Design
 
@@ -81,6 +81,6 @@ Before you dive into running this recommendation engine, make sure you have the 
 
 With these steps, you can harness the power of collaborative filtering and deliver exceptional movie recommendations to your users.
 
-For more details, please refer to the [Google Slides Presentation](link_to_google_slides) linked above.
+For more details, please refer to the [Google Slides Presentation](https://docs.google.com/presentation/d/1mula9arywAMuA7I4tyndwqpnv4cR1gbvFhmNFjGHQmo/edit#slide=id.p)https://docs.google.com/presentation/d/1mula9arywAMuA7I4tyndwqpnv4cR1gbvFhmNFjGHQmo/edit#slide=id.p) linked above.
 
 Enjoy exploring and enhancing your recommendation engine!
