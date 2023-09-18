@@ -79,8 +79,6 @@ Before you dive into running this recommendation engine, make sure you have the 
 5. **Check the Output**:
    - Monitor the job progress and check the output for your personalized movie recommendations.
 
-With these steps, you can harness the power of collaborative filtering and deliver exceptional movie recommendations to your users.
+With these steps, the power of collaborative filtering was harnessed to deliver exceptional movie recommendations to users.
 
-For more details, please refer to the [Google Slides Presentation](https://docs.google.com/presentation/d/1mula9arywAMuA7I4tyndwqpnv4cR1gbvFhmNFjGHQmo/edit#slide=id.p)https://docs.google.com/presentation/d/1mula9arywAMuA7I4tyndwqpnv4cR1gbvFhmNFjGHQmo/edit#slide=id.p) linked above.
 
-Enjoy exploring and enhancing your recommendation engine!
