@@ -78,6 +78,8 @@ Before you dive into running this recommendation engine, make sure you have the 
 
 5. **Check the Output**:
    - Monitor the job progress and check the output for your personalized movie recommendations.
+     
+<img width="741" alt="Screenshot 2023-09-18 at 5 08 49 PM" src="https://github.com/franketang/Machine-Learning-2/assets/29631514/1d00dd8c-1e67-484e-886a-ff90dafcab07">
 
 With these steps, the power of collaborative filtering was harnessed to deliver exceptional movie recommendations to users.
 
